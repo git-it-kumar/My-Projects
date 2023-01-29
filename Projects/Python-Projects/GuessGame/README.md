@@ -1,1 +1,1 @@
-
+This is a number guessing game developed by using python programming language. In this game, the computer asks the user to guess the number which the computer is thinking, within 10 attempts. The range of the random number is between 0 to 200
