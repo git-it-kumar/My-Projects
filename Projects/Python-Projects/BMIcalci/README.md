@@ -1,1 +1,1 @@
-
+This is a Body Mass Index (BMI) calculator which has been developed using the python programming language. It takes name, height and weight of the user as the inputs and provides calculated BMI and the condition of the health as the output.
